@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -24,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602169255602</updated>
       <workItem from="1602169256773" duration="393000" />
-      <workItem from="1602169936992" duration="2328000" />
+      <workItem from="1602169936992" duration="5600000" />
     </task>
     <servers />
   </component>
